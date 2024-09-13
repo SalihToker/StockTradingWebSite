@@ -6,7 +6,7 @@ A simple web site where you can buy and sell stocks.
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#Technologies_Used)
+- [Technologies Used](#TechnologiesUsed)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
@@ -14,25 +14,25 @@ A simple web site where you can buy and sell stocks.
 
 ## Description
 
-### Register-Log In Pages
+### Register - Log In
 ![](Readme_Files/register.png)
 You can register as a new user and then log in with your username and password.
-### Index Page
+### Index
 ![](Readme_Files/index.png)
 Once logged in, you will be redirected to the index page where you can view your shares and current cash balance.
-### Quote Page
+### Quote
 ![](Readme_Files/quote.png)
 Search for different companies' stocks and view their current prices.
 ### Buy Page
 ![](Readme_Files/buy.png)
 Buy shares by entering stock symbols and specifying the number of shares you want to purchase.
-### Sell Page
+### Sell
 ![](Readme_Files/sell.png)
 Sell shares you own by selecting stocks and entering the number of shares you want to sell.
-### History Page
+### History
 ![](Readme_Files/history.png)
 View your transaction history, including past buys and sells.
-### Add Cash Page
+### Add Cash
 ![](Readme_Files/addcash.png)
 Add funds to your account by entering the amount you wish to deposit. This will increase your cash balance, allowing you to buy more shares.
 ### Log Out
