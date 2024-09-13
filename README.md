@@ -71,7 +71,7 @@ Cs50 - This project is a part of CS50 Harvard’s course and includes materials 
 - Python
   - Flask (web framework)
   - Jinja (templating engine)
-  - Werkzeug (WSGI utility library)
+  - Werkzeug (WSGI utility library, used for password hashing)
 
 ### Database:
 - SQLite
