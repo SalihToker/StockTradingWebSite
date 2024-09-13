@@ -14,7 +14,7 @@ A simple web site where you can buy and sell stocks.
 ## Description
 
 ### Register-Log In Pages
-(Readme_Files/register.png)
+![](Readme_Files/register.png)
 You can register as a new user and then log in with your username and password.
 ### Index Page
 Once logged in, you will be redirected to the index page where you can view your shares and current cash balance.
