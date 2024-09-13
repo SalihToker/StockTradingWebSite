@@ -6,10 +6,11 @@ A simple web site where you can buy and sell stocks.
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Technologies Used](#Technologies_Used)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 
 ## Description
 
@@ -52,14 +53,6 @@ flask run
 ```
 Open your web browser and go to http://127.0.0.1:5000 to view the application
 
-## Contact
-If you have any questions, please open an issue on GitHub.
-
-## Acknowledgments
-Flask - The web framework used for this project.
-
-Cs50 - This project is a part of CS50 Harvard’s course and includes materials from the course. See the course (https://cs50.harvard.edu) for more details.
-
 ## Technologies Used
 
 ### Frontend:
@@ -75,5 +68,14 @@ Cs50 - This project is a part of CS50 Harvard’s course and includes materials 
 
 ### Database:
 - SQLite
+
+## Contact
+If you have any questions, please open an issue on GitHub.
+
+## Acknowledgments
+Cs50 - This project is a part of CS50 Harvard’s course and includes materials from the course. See the course (https://cs50.harvard.edu) for more details.
+
+## License
+This project is licensed under the MIT License
 
 
