@@ -60,3 +60,6 @@ Flask - The web framework used for this project.
 
 Cs50 - This project is a part of CS50 Harvard’s course and includes materials from the course. See the course (https://cs50.harvard.edu) for more details.
 
+## Technologies Used
+HTML, Bootstrap, CSS, Python, Flask, Jinja, Werkzeug, SQLite
+
