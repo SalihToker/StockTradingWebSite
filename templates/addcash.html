@@ -7,7 +7,6 @@
 {% block main %}
 <h2>Your current cash balance: {{ cash | usd }}</h2>
 <form action="/addcash" method="post">
-    <div>cash</div>
     <input type="number" name="addcash" placeholder="Cash">
     <button type="submit">Add</button>
 </form>

@@ -62,25 +62,7 @@
             {% block main %}{% endblock %}
         </main>
 
-        <footer class="mb-5">
-            <form action="https://validator.w3.org/check" class="text-center" enctype="multipart/form-data" method="post" target="_blank">
-                <input name="doctype" type="hidden" value="HTML5">
-                <input name="fragment" type="hidden">
-                <input alt="Validate" src="/static/I_heart_validator.png" type="image"> <!-- https://validator.w3.org/ -->
-            </form>
-            <script>
-                document.addEventListener('DOMContentLoaded', function() {
-                    // Adapted from https://stackoverflow.com/a/10162353
-                    const html = '<!DOCTYPE ' +
-                    document.doctype.name +
-                    (document.doctype.publicId ? ' PUBLIC "' + document.doctype.publicId + '"' : '') +
-                    (!document.doctype.publicId && document.doctype.systemId ? ' SYSTEM' : '') +
-                    (document.doctype.systemId ? ' "' + document.doctype.systemId + '"' : '') +
-                    '>\n' + document.documentElement.outerHTML;
-                    document.querySelector('form[action="https://validator.w3.org/check"] > input[name="fragment"]').value = html;
-                });
-            </script>
-        </footer>
+        
 
     </body>
 
