@@ -44,3 +44,12 @@ To start the project, run:
 flask run
 ```
 Open your web browser and go to http://127.0.0.1:5000 to view the application
+
+## Contact
+If you have any questions, please open an issue on GitHub.
+
+## Acknowledgments
+Flask - The web framework used for this project.
+
+Cs50 - This project is a part of CS50 Harvard’s course and includes materials from the course. See the course (https://cs50.harvard.edu) for more details.
+
