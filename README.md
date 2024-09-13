@@ -6,7 +6,7 @@ A simple web site where you can buy and sell stocks.
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#TechnologiesUsed)
+- [Technologies Used](#Technologies-Used)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
