@@ -76,6 +76,4 @@ If you have any questions, please open an issue on GitHub.
 Cs50 - This project is a part of CS50 Harvard’s course and includes materials from the course. See the course (https://cs50.harvard.edu) for more details.
 
 ## License
-This project is licensed under the MIT License
-
-
+This project is licensed under the MIT License. See the (LICENSE) file for details.
