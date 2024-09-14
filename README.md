@@ -23,7 +23,7 @@ Once logged in, you will be redirected to the index page where you can view your
 ### Quote
 ![](Readme_Files/quote.png)
 Search for different companies' stocks and view their current prices.
-### Buy Page
+### Buy
 ![](Readme_Files/buy.png)
 Buy shares by entering stock symbols and specifying the number of shares you want to purchase.
 ### Sell
